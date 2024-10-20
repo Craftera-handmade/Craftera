@@ -852,6 +852,10 @@ a:focus {
   color: #cbc9c9;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .zoom {
   padding: 50px;
   transition: transform .2s; /* Animation */
