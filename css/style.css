@@ -236,8 +236,8 @@ a:focus {
   color: #fefefe;
   background-color: #000000;
   background-color: #f89cab;
-  padding: 25px;
-  border-radius: 0 0 15px 15px;
+  padding: 0;
+  border-radius: 0 0 0 0;
 }
 
 .slider_section .row {
